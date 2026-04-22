@@ -1,0 +1,67 @@
+{
+  "qq_number": "1721351326",
+  "group_number": "1074547641",
+  "updated_at": "2026-04-22T16:19:30.653005",
+  "skins": [
+    {
+      "name": "小咪の天使小叽",
+      "file": "天使小叽安卓.bds",
+      "thumb": "天使小叽安卓.bds_py_26_light_thumb.png",
+      "full": "天使小叽安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "轻松熊安卓.bds",
+      "thumb": "轻松熊安卓.bds_py_26_light_thumb.png",
+      "full": "轻松熊安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "小咪の焦糖布丁",
+      "file": "焦糖布丁安卓.bds",
+      "thumb": "焦糖布丁安卓.bds_py_26_light_thumb.png",
+      "full": "焦糖布丁安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "小咪の吃一口草莓",
+      "file": "吃一口草莓安卓.bds",
+      "thumb": "吃一口草莓安卓.bds_py_26_light_thumb.png",
+      "full": "吃一口草莓安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "咪の小狗味",
+      "file": "小狗味安卓.bds",
+      "thumb": "小狗味安卓.bds_py_26_light_thumb.png",
+      "full": "小狗味安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "小咪の焦糖布丁",
+      "file": "焦糖布丁苹果.bdi",
+      "thumb": "焦糖布丁苹果.bdi_py_26_light_thumb.png",
+      "full": "焦糖布丁苹果.bdi_py_26_light.png"
+    },
+    {
+      "name": "小咪的天使小叽",
+      "file": "天使小叽苹果.bdi",
+      "thumb": "天使小叽苹果.bdi_py_26_light_thumb.png",
+      "full": "天使小叽苹果.bdi_py_26_light.png"
+    },
+    {
+      "name": "小咪の轻松熊",
+      "file": "轻松熊苹果.bdi",
+      "thumb": "轻松熊苹果.bdi_py_26_light_thumb.png",
+      "full": "轻松熊苹果.bdi_py_26_light.png"
+    },
+    {
+      "name": "咪の小狗味",
+      "file": "小狗味苹果.bdi",
+      "thumb": "小狗味苹果.bdi_py_26_light_thumb.png",
+      "full": "小狗味苹果.bdi_py_26_light.png"
+    },
+    {
+      "name": "小咪の吃一口草莓",
+      "file": "吃一口草莓苹果.bdi",
+      "thumb": "吃一口草莓苹果.bdi_py_26_light_thumb.png",
+      "full": "吃一口草莓苹果.bdi_py_26_light.png"
+    }
+  ]
+}
