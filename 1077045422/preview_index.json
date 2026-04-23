@@ -1,122 +1,8 @@
 {
   "qq_number": "1721351326",
   "group_number": "1077045422",
-  "updated_at": "2026-04-22T16:19:30.777776",
+  "updated_at": "2026-04-23T15:52:38.756096",
   "skins": [
-    {
-      "name": "咪の新年好运来",
-      "file": "新年好运来安卓.bds",
-      "thumb": "新年好运来安卓.bds_py_26_light_thumb.png",
-      "full": "新年好运来安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "小咪の蝴蝶忍",
-      "file": "蝴蝶忍安卓.bds",
-      "thumb": "蝴蝶忍安卓.bds_py_26_light_thumb.png",
-      "full": "蝴蝶忍安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "咪の缘之空",
-      "file": "缘之空安卓.bds",
-      "thumb": "缘之空安卓.bds_py_26_light_thumb.png",
-      "full": "缘之空安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "咪の暗恋的酸涩味",
-      "file": "暗恋的酸涩味安卓.bds",
-      "thumb": "暗恋的酸涩味安卓.bds_py_26_light_thumb.png",
-      "full": "暗恋的酸涩味安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "咪の初音酱",
-      "file": "初音酱安卓.bds",
-      "thumb": "初音酱安卓.bds_py_26_light_thumb.png",
-      "full": "初音酱安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "小咪の胡巴胡巴",
-      "file": "胡巴胡巴安卓.bds",
-      "thumb": "胡巴胡巴安卓.bds_py_26_light_thumb.png",
-      "full": "胡巴胡巴安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "咪の软萌草莓霜",
-      "file": "软萌草莓霜安卓.bds",
-      "thumb": "软萌草莓霜安卓.bds_py_26_light_thumb.png",
-      "full": "软萌草莓霜安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "咪の星野爱",
-      "file": "星野爱安卓.bds",
-      "thumb": "星野爱安卓.bds_py_26_light_thumb.png",
-      "full": "星野爱安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "小咪の巧克泥慕斯",
-      "file": "巧克泥慕斯安卓.bds",
-      "thumb": "巧克泥慕斯安卓.bds_py_26_light_thumb.png",
-      "full": "巧克泥慕斯安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "咪の轻松熊熊",
-      "file": "轻松熊熊安卓.bds",
-      "thumb": "轻松熊熊安卓.bds_py_26_light_thumb.png",
-      "full": "轻松熊熊安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "小咪の可爱才是正解",
-      "file": "可爱才是正解安卓.bds",
-      "thumb": "可爱才是正解安卓.bds_py_26_light_thumb.png",
-      "full": "可爱才是正解安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "咪の奶油樱彩",
-      "file": "奶油樱安卓.bds",
-      "thumb": "奶油樱安卓.bds_py_26_light_thumb.png",
-      "full": "奶油樱安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "咪の樱花物语",
-      "file": "樱花物语安卓.bds",
-      "thumb": "樱花物语安卓.bds_py_26_light_thumb.png",
-      "full": "樱花物语安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "咪の此方酱（永辉）",
-      "file": "此方酱安卓.bds",
-      "thumb": "此方酱安卓.bds_py_26_light_thumb.png",
-      "full": "此方酱安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "美乐蒂安卓.bds",
-      "thumb": "美乐蒂安卓.bds_py_26_light_thumb.png",
-      "full": "美乐蒂安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "咪の萌萌一个我",
-      "file": "萌萌一个我安卓.bds",
-      "thumb": "萌萌一个我安卓.bds_py_26_light_thumb.png",
-      "full": "萌萌一个我安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "小咪の星糖马卡龙",
-      "file": "星糖马卡龙安卓.bds",
-      "thumb": "星糖马卡龙安卓.bds_py_26_light_thumb.png",
-      "full": "星糖马卡龙安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "咪の奶油小叽",
-      "file": "奶油小叽安卓.bds",
-      "thumb": "奶油小叽安卓.bds_py_26_light_thumb.png",
-      "full": "奶油小叽安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "小咪の莓果跳跳糖",
-      "file": "莓果跳跳糖安卓.bds",
-      "thumb": "莓果跳跳糖安卓.bds_py_26_light_thumb.png",
-      "full": "莓果跳跳糖安卓.bds_py_26_light.png"
-    },
     {
       "name": "咪の奶油樱彩",
       "file": "奶油樱苹果.bdi",
@@ -230,6 +116,120 @@
       "file": "星野爱苹果.bdi",
       "thumb": "星野爱苹果.bdi_py_26_light_thumb.png",
       "full": "星野爱苹果.bdi_py_26_light.png"
+    },
+    {
+      "name": "咪の新年好运来",
+      "file": "新年好运来安卓.bds",
+      "thumb": "新年好运来安卓.bds_py_26_light_thumb.png",
+      "full": "新年好运来安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "小咪の蝴蝶忍",
+      "file": "蝴蝶忍安卓.bds",
+      "thumb": "蝴蝶忍安卓.bds_py_26_light_thumb.png",
+      "full": "蝴蝶忍安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "咪の缘之空",
+      "file": "缘之空安卓.bds",
+      "thumb": "缘之空安卓.bds_py_26_light_thumb.png",
+      "full": "缘之空安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "咪の暗恋的酸涩味",
+      "file": "暗恋的酸涩味安卓.bds",
+      "thumb": "暗恋的酸涩味安卓.bds_py_26_light_thumb.png",
+      "full": "暗恋的酸涩味安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "咪の初音酱",
+      "file": "初音酱安卓.bds",
+      "thumb": "初音酱安卓.bds_py_26_light_thumb.png",
+      "full": "初音酱安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "小咪の胡巴胡巴",
+      "file": "胡巴胡巴安卓.bds",
+      "thumb": "胡巴胡巴安卓.bds_py_26_light_thumb.png",
+      "full": "胡巴胡巴安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "咪の软萌草莓霜",
+      "file": "软萌草莓霜安卓.bds",
+      "thumb": "软萌草莓霜安卓.bds_py_26_light_thumb.png",
+      "full": "软萌草莓霜安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "咪の星野爱",
+      "file": "星野爱安卓.bds",
+      "thumb": "星野爱安卓.bds_py_26_light_thumb.png",
+      "full": "星野爱安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "小咪の巧克泥慕斯",
+      "file": "巧克泥慕斯安卓.bds",
+      "thumb": "巧克泥慕斯安卓.bds_py_26_light_thumb.png",
+      "full": "巧克泥慕斯安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "咪の轻松熊熊",
+      "file": "轻松熊熊安卓.bds",
+      "thumb": "轻松熊熊安卓.bds_py_26_light_thumb.png",
+      "full": "轻松熊熊安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "小咪の可爱才是正解",
+      "file": "可爱才是正解安卓.bds",
+      "thumb": "可爱才是正解安卓.bds_py_26_light_thumb.png",
+      "full": "可爱才是正解安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "咪の奶油樱彩",
+      "file": "奶油樱安卓.bds",
+      "thumb": "奶油樱安卓.bds_py_26_light_thumb.png",
+      "full": "奶油樱安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "咪の樱花物语",
+      "file": "樱花物语安卓.bds",
+      "thumb": "樱花物语安卓.bds_py_26_light_thumb.png",
+      "full": "樱花物语安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "咪の此方酱（永辉）",
+      "file": "此方酱安卓.bds",
+      "thumb": "此方酱安卓.bds_py_26_light_thumb.png",
+      "full": "此方酱安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "美乐蒂安卓.bds",
+      "thumb": "美乐蒂安卓.bds_py_26_light_thumb.png",
+      "full": "美乐蒂安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "咪の萌萌一个我",
+      "file": "萌萌一个我安卓.bds",
+      "thumb": "萌萌一个我安卓.bds_py_26_light_thumb.png",
+      "full": "萌萌一个我安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "小咪の星糖马卡龙",
+      "file": "星糖马卡龙安卓.bds",
+      "thumb": "星糖马卡龙安卓.bds_py_26_light_thumb.png",
+      "full": "星糖马卡龙安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "咪の奶油小叽",
+      "file": "奶油小叽安卓.bds",
+      "thumb": "奶油小叽安卓.bds_py_26_light_thumb.png",
+      "full": "奶油小叽安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "小咪の莓果跳跳糖",
+      "file": "莓果跳跳糖安卓.bds",
+      "thumb": "莓果跳跳糖安卓.bds_py_26_light_thumb.png",
+      "full": "莓果跳跳糖安卓.bds_py_26_light.png"
     }
   ]
 }

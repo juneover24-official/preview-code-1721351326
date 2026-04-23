@@ -1,50 +1,8 @@
 {
   "qq_number": "1721351326",
   "group_number": "2169056419",
-  "updated_at": "2026-04-22T16:19:15.385382",
+  "updated_at": "2026-04-23T15:52:35.730731",
   "skins": [
-    {
-      "name": "咪の巧克力莓莓",
-      "file": "巧克力莓莓安卓.bds",
-      "thumb": "巧克力莓莓安卓.bds_py_26_light_thumb.png",
-      "full": "巧克力莓莓安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "小咪の薄荷巧克力",
-      "file": "薄荷巧克力安卓.bds",
-      "thumb": "薄荷巧克力安卓.bds_py_26_light_thumb.png",
-      "full": "薄荷巧克力安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "咪の萌萌萌妹",
-      "file": "萌萌萌妹安卓.bds",
-      "thumb": "萌萌萌妹安卓.bds_py_26_light_thumb.png",
-      "full": "萌萌萌妹安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "咪的樱花奶冻",
-      "file": "樱花奶冻安卓.bds",
-      "thumb": "樱花奶冻安卓.bds_py_26_light_thumb.png",
-      "full": "樱花奶冻安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "小咪の草莓美乐蒂",
-      "file": "草莓美乐蒂安卓.bds",
-      "thumb": "草莓美乐蒂安卓.bds_py_26_light_thumb.png",
-      "full": "草莓美乐蒂安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "咪の萌萌萌妹",
-      "file": "萌萌萌妹可爱音安卓.bds",
-      "thumb": "萌萌萌妹可爱音安卓.bds_py_26_light_thumb.png",
-      "full": "萌萌萌妹可爱音安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "乐咪の糯心草莓糕",
-      "file": "糯心草莓糕安卓.bds",
-      "thumb": "糯心草莓糕安卓.bds_py_26_light_thumb.png",
-      "full": "糯心草莓糕安卓.bds_py_26_light.png"
-    },
     {
       "name": "咪の巧克力莓莓（日融夜彩）",
       "file": "巧克力莓莓苹果.bdi",
@@ -86,6 +44,48 @@
       "file": "薄荷巧克力苹果.bdi",
       "thumb": "薄荷巧克力苹果.bdi_py_26_light_thumb.png",
       "full": "薄荷巧克力苹果.bdi_py_26_light.png"
+    },
+    {
+      "name": "咪の巧克力莓莓",
+      "file": "巧克力莓莓安卓.bds",
+      "thumb": "巧克力莓莓安卓.bds_py_26_light_thumb.png",
+      "full": "巧克力莓莓安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "小咪の薄荷巧克力",
+      "file": "薄荷巧克力安卓.bds",
+      "thumb": "薄荷巧克力安卓.bds_py_26_light_thumb.png",
+      "full": "薄荷巧克力安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "咪の萌萌萌妹",
+      "file": "萌萌萌妹安卓.bds",
+      "thumb": "萌萌萌妹安卓.bds_py_26_light_thumb.png",
+      "full": "萌萌萌妹安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "咪的樱花奶冻",
+      "file": "樱花奶冻安卓.bds",
+      "thumb": "樱花奶冻安卓.bds_py_26_light_thumb.png",
+      "full": "樱花奶冻安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "小咪の草莓美乐蒂",
+      "file": "草莓美乐蒂安卓.bds",
+      "thumb": "草莓美乐蒂安卓.bds_py_26_light_thumb.png",
+      "full": "草莓美乐蒂安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "咪の萌萌萌妹",
+      "file": "萌萌萌妹可爱音安卓.bds",
+      "thumb": "萌萌萌妹可爱音安卓.bds_py_26_light_thumb.png",
+      "full": "萌萌萌妹可爱音安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "乐咪の糯心草莓糕",
+      "file": "糯心草莓糕安卓.bds",
+      "thumb": "糯心草莓糕安卓.bds_py_26_light_thumb.png",
+      "full": "糯心草莓糕安卓.bds_py_26_light.png"
     }
   ]
 }
