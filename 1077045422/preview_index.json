@@ -1,7 +1,7 @@
 {
   "qq_number": "1721351326",
   "group_number": "1077045422",
-  "updated_at": "2026-04-23T15:52:38.756096",
+  "updated_at": "2026-06-05T11:06:20+00:00",
   "skins": [
     {
       "name": "咪の奶油樱彩",
@@ -230,6 +230,12 @@
       "file": "莓果跳跳糖安卓.bds",
       "thumb": "莓果跳跳糖安卓.bds_py_26_light_thumb.png",
       "full": "莓果跳跳糖安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "焰圆苹果",
+      "file": "焰圆苹果.bdi",
+      "thumb": "焰圆苹果.bdi_py_26_light_thumb.png",
+      "full": "焰圆苹果.bdi_py_26_light_thumb.png"
     }
   ]
 }
