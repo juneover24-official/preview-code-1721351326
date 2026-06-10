@@ -1,7 +1,7 @@
 {
   "qq_number": "1721351326",
   "group_number": "1077045422",
-  "updated_at": "2026-06-10T22:07:38+00:00",
+  "updated_at": "2026-06-10T22:14:35+00:00",
   "skins": [
     {
       "name": "咪の奶油樱彩",
@@ -248,6 +248,12 @@
       "file": "萌味番苹果.bdi",
       "thumb": "萌味番苹果.bdi_py_26_light_thumb.png",
       "full": "萌味番苹果.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "草莓牛乳苹果",
+      "file": "草莓牛乳苹果.bdi",
+      "thumb": "草莓牛乳苹果.bdi_py_26_light_thumb.png",
+      "full": "草莓牛乳苹果.bdi_py_26_light_thumb.png"
     }
   ]
 }
