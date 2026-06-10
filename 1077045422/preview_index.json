@@ -1,7 +1,7 @@
 {
   "qq_number": "1721351326",
   "group_number": "1077045422",
-  "updated_at": "2026-06-10T22:20:13+00:00",
+  "updated_at": "2026-06-10T22:21:03+00:00",
   "skins": [
     {
       "name": "咪の奶油樱彩",
@@ -266,6 +266,12 @@
       "file": "奶油裱花袋苹果.bdi",
       "thumb": "奶油裱花袋苹果.bdi_py_26_light_thumb.png",
       "full": "奶油裱花袋苹果.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "小咪の慵懒小猫",
+      "file": "小咪の慵懒小猫.bdi",
+      "thumb": "小咪の慵懒小猫.bdi_py_26_light_thumb.png",
+      "full": "小咪の慵懒小猫.bdi_py_26_light_thumb.png"
     }
   ]
 }
