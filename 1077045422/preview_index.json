@@ -1,7 +1,7 @@
 {
   "qq_number": "1721351326",
   "group_number": "1077045422",
-  "updated_at": "2026-06-11T08:10:55+00:00",
+  "updated_at": "2026-06-11T08:13:42+00:00",
   "skins": [
     {
       "name": "咪の奶油樱彩",
@@ -296,6 +296,12 @@
       "file": "奶油裱花袋安卓.bds",
       "thumb": "奶油裱花袋安卓.bds_py_26_light_thumb.png",
       "full": "奶油裱花袋安卓.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "小咪の草莓牛乳",
+      "file": "草莓牛乳安卓.bds",
+      "thumb": "草莓牛乳安卓.bds_py_26_light_thumb.png",
+      "full": "草莓牛乳安卓.bds_py_26_light_thumb.png"
     }
   ]
 }
