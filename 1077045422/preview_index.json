@@ -1,7 +1,7 @@
 {
   "qq_number": "1721351326",
   "group_number": "1077045422",
-  "updated_at": "2026-06-11T07:59:44+00:00",
+  "updated_at": "2026-06-11T08:00:48+00:00",
   "skins": [
     {
       "name": "咪の奶油樱彩",
@@ -284,6 +284,12 @@
       "file": "我们要永远在一起安卓.bds",
       "thumb": "我们要永远在一起安卓.bds_py_26_light_thumb.png",
       "full": "我们要永远在一起安卓.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "小咪の萌味番",
+      "file": "萌味番安卓.bds",
+      "thumb": "萌味番安卓.bds_py_26_light_thumb.png",
+      "full": "萌味番安卓.bds_py_26_light_thumb.png"
     }
   ]
 }
