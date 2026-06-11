@@ -1,7 +1,7 @@
 {
   "qq_number": "1721351326",
   "group_number": "1077045422",
-  "updated_at": "2026-06-11T12:13:09+00:00",
+  "updated_at": "2026-06-11T12:13:43+00:00",
   "skins": [
     {
       "name": "咪の奶油樱彩",
@@ -320,6 +320,12 @@
       "file": "奶糖の涟漪二安卓.bds",
       "thumb": "奶糖の涟漪二安卓.bds_py_26_light_thumb.png",
       "full": "奶糖の涟漪二安卓.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "涟漪",
+      "file": "奶糖の涟漪一安卓.bds",
+      "thumb": "奶糖の涟漪一安卓.bds_py_26_light_thumb.png",
+      "full": "奶糖の涟漪一安卓.bds_py_26_light_thumb.png"
     }
   ]
 }
