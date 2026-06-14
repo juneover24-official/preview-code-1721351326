@@ -1,7 +1,7 @@
 {
   "qq_number": "1721351326",
   "group_number": "1077045422",
-  "updated_at": "2026-06-14T07:14:46+00:00",
+  "updated_at": "2026-06-14T17:53:54+00:00",
   "skins": [
     {
       "name": "咪の奶油樱彩",
@@ -332,6 +332,12 @@
       "file": "不安苹果.bdi",
       "thumb": "不安苹果.bdi_py_26_light_thumb.png",
       "full": "不安苹果.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "小咪の不安",
+      "file": "不安安卓.bds",
+      "thumb": "不安安卓.bds_py_26_light_thumb.png",
+      "full": "不安安卓.bds_py_26_light_thumb.png"
     }
   ]
 }
